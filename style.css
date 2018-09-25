@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://cdn.surfer.com/uploads/2015/08/Corey1.jpg");
+  background-size: 1400px 1000px;
+}
+h1,h2{
+  text-align: center;
+  color: darkblue;
+  font-family: "Comic Sans MS";
+}
+p{
+  font-family: Wingdings;
+  color: darkblue;
+}
+img{
+  width: 200px;
+}
